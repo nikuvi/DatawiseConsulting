@@ -25,18 +25,18 @@ Además, preparé una presentación estilo storytelling para defender el proyect
 <details>
   <summary>Herramientas & Apps</summary>
   <ul>
-    <img src="https://github.com/user-attachments/assets/9b7a72ba-d62a-457d-ab14-1171b42396f5" alt="Apps Script" width=40 height=40></a>
-    <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="Looker Studio" width=40 height=40></a>
-    <img src="https://img.icons8.com/?size=100&id=30462&format=png&color=000000" alt="Google Slides" width=40 height=40></a>
-    <img src="https://img.icons8.com/?size=100&id=30464&format=png&color=000000" alt="Google Docs" width=40 height=40></a>
+    <img src="https://github.com/user-attachments/assets/9b7a72ba-d62a-457d-ab14-1171b42396f5" alt="Apps Script" width=50 height=50></a>
+    <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="Looker Studio" width=50 height=50></a>
+    <img src="https://img.icons8.com/?size=100&id=30462&format=png&color=000000" alt="Google Slides" width=50 height=50></a>
+    <img src="https://img.icons8.com/?size=100&id=30464&format=png&color=000000" alt="Google Docs" width=50 height=50></a>
   </ul>
 </details>
 
 <details>
 <summary>Base de Datos</summary>
   <ul>
-    <img src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000" alt="Google Sheets" width=40 height=40>></a>
+    <img src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000" alt="Google Sheets" width=50 height=50></a>
   </ul>
 </details>
 
-<! -- ## 📁Archivos -->
+## 📁Archivos 
