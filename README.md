@@ -1,4 +1,4 @@
-# 🏪DatawiseConsulting
+# 🏪DataWise Consulting
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/DatawiseConsulting?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/DatawiseConsulting?style=for-the-badge)
