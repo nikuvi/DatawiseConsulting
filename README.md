@@ -1,10 +1,10 @@
-# DatawiseConsulting
+# 🏪DatawiseConsulting
 
-![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/DatawiseConsultin?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/DatawiseConsultin?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/nikuvi/DatawiseConsultin?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nikuvi/DatawiseConsultin?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nikuvi/DatawiseConsultin?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/DatawiseConsulting?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/DatawiseConsulting?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/nikuvi/DatawiseConsulting?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nikuvi/DatawiseConsulting?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nikuvi/DatawiseConsulting?style=for-the-badge)
 
 > Proyecto final del curso de Business Intelligence, donde apliqué herramientas como Google Sheets y Looker Studio para desarrollar un dashboard interactivo con foco en un negocio de e-commerce.
 
@@ -25,17 +25,17 @@ Además, preparé una presentación estilo storytelling para defender el proyect
 <details>
   <summary>Herramientas & Apps</summary>
   <ul>
-    <img src="https://github.com/user-attachments/assets/9b7a72ba-d62a-457d-ab14-1171b42396f5"></a>
-    <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000"></a>
-    <img src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000"></a>
-    <img src="https://img.icons8.com/?size=100&id=30464&format=png&color=000000">
+    <img src="https://github.com/user-attachments/assets/9b7a72ba-d62a-457d-ab14-1171b42396f5" alt="Apps Script" width=30 height=30></a>
+    <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="Looker Studio" width=30 height=30></a>
+    <img src="https://img.icons8.com/?size=100&id=30462&format=png&color=000000" alt="Google Slides" width=30 height=30></a>
+    <img src="https://img.icons8.com/?size=100&id=30464&format=png&color=000000" alt="Google Docs" width=30 height=30></a>
   </ul>
 </details>
 
 <details>
 <summary>Base de Datos</summary>
   <ul>
-    <img src="https://img.icons8.com/?size=100&id=30462&format=png&color=000000"></a>
+    <img src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000"></a>
   </ul>
 </details>
 
